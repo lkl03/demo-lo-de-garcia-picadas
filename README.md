@@ -1,2 +1,7 @@
-# demo-lo-de-garcia-picadas
-Demo web para Lo De Garcia Picadas — diseñada por eterlab.
+# Lo De Garcia Picadas
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
